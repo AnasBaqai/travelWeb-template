@@ -1,6 +1,6 @@
 # TravelWeb Template
 
-![TravelWeb Template](demo/screenshot.png)
+![TravelWeb Template](screenshot.png)
 
 This repository contains a responsive web template for a travel-related website. It is built using HTML, CSS, and Bootstrap, providing a sleek and modern design that is suitable for showcasing travel destinations, packages, and related information.
 
